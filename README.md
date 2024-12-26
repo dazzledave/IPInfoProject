@@ -18,3 +18,5 @@ A Python script to fetch detailed information about an IP address and basic deta
 2. Install the required library:
    ```bash
    pip install requests
+
+## If you gave it a try, thanks (●'◡'●)
